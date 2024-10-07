@@ -1,0 +1,5 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,CVS,-1.0,64.59,MOO,0,0.25,2024-10-07,US-Equity-SNP,pending
+1,FICO,1.0,1913.38,MOO,0,0.25,2024-10-07,US-Equity-SNP,pending
+2,EXPD,1.0,120.44,MOO,1,0.25,2024-10-07,US-Equity-SNP,pending
+3,CRL,1.0,190.74,MOO,2,0.25,2024-10-07,US-Equity-SNP,pending
