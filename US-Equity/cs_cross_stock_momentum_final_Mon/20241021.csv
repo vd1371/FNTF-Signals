@@ -1,0 +1,9 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,BAC,1.0,42.32,MOO,0,0.125,2024-10-21,US-Equity-SNP,pending
+1,NWL,-1.0,7.87,MOO,0,0.125,2024-10-21,US-Equity-SNP,pending
+2,MAR,1.0,265.6,MOO,1,0.125,2024-10-21,US-Equity-SNP,pending
+3,AME,1.0,169.4,MOO,2,0.125,2024-10-21,US-Equity-SNP,pending
+4,WEC,-1.0,99.85,MOO,1,0.125,2024-10-21,US-Equity-SNP,pending
+5,HOLX,-1.0,81.57,MOO,2,0.125,2024-10-21,US-Equity-SNP,pending
+6,CFG,1.0,42.47,MOO,3,0.125,2024-10-21,US-Equity-SNP,pending
+7,L,-1.0,81.82,MOO,3,0.125,2024-10-21,US-Equity-SNP,pending
