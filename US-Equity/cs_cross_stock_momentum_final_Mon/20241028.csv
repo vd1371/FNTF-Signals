@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,JPM,1.0,222.31,MOO,0,0.2,2024-10-28,US-Equity-SNP,pending
+1,PFE,1.0,28.45,MOO,1,0.2,2024-10-28,US-Equity-SNP,pending
+2,CMA,1.0,61.77,MOO,2,0.2,2024-10-28,US-Equity-SNP,pending
+3,BIIB,1.0,181.69,MOO,3,0.2,2024-10-28,US-Equity-SNP,pending
+4,NTAP,1.0,119.41,MOO,4,0.2,2024-10-28,US-Equity-SNP,pending
