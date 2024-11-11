@@ -1,0 +1,8 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,PYPL,-1.0,83.01,MOO,0,0.1,2024-11-11,US-Equity-SNP,pending
+1,FOXA,-1.0,44.6,MOO,1,0.1,2024-11-11,US-Equity-SNP,pending
+2,MAR,-1.0,280.8,MOO,2,0.1,2024-11-11,US-Equity-SNP,pending
+3,SRE,-1.0,91.25,MOO,3,0.1,2024-11-11,US-Equity-SNP,pending
+4,IT,-1.0,547.4,MOO,4,0.1,2024-11-11,US-Equity-SNP,pending
+5,BRO,-1.0,112.43,MOO,5,0.1,2024-11-11,US-Equity-SNP,pending
+6,CRL,-1.0,215.39,MOO,6,0.1,2024-11-11,US-Equity-SNP,pending
