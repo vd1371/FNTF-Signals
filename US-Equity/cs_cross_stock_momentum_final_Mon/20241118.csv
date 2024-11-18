@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AMZN,1.0,202.61,MOO,0,0.1,2024-11-18,US-Equity-SNP,pending
+1,MRNA,1.0,36.85,MOO,1,0.1,2024-11-18,US-Equity-SNP,pending
+2,LDOS,1.0,160.65,MOO,2,0.1,2024-11-18,US-Equity-SNP,pending
