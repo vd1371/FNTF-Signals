@@ -1,0 +1,7 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,MSFT,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
+1,MAR,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
+2,TEL,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
+3,DFS,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
+4,SNA,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
+5,AMCR,1,N/A,MOC,N/A,1,2024-11-20,US-Equity-SNP,pending,2024-11-21
