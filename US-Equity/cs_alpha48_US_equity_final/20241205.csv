@@ -1,0 +1,9 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,PEP,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+1,BAC,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+2,GM,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+3,KMB,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+4,GPC,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+5,NDAQ,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+6,NTRS,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
+7,TAP,1,N/A,MOC,N/A,1,2024-12-05,US-Equity-SNP,pending,2024-12-06
