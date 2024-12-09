@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,OXY,1,N/A,MOC,N/A,1,2024-12-09,US-Equity-SNP,pending,2024-12-10
+1,PEG,1,N/A,MOC,N/A,1,2024-12-09,US-Equity-SNP,pending,2024-12-10
+2,PPL,1,N/A,MOC,N/A,1,2024-12-09,US-Equity-SNP,pending,2024-12-10

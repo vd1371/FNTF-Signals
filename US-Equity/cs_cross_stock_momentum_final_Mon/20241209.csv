@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,BRO,1.0,109.18,MOO,0,0.1,2024-12-09,US-Equity-SNP,pending
+1,WAT,1.0,384.05,MOO,1,0.1,2024-12-09,US-Equity-SNP,pending
+2,TAP,1.0,61.13,MOO,2,0.1,2024-12-09,US-Equity-SNP,pending
