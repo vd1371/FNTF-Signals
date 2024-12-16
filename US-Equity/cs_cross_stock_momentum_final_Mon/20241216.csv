@@ -1,0 +1,7 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,CPB,-1.0,42.99,MOO,0,0.1,2024-12-16,US-Equity-SNP,pending
+1,WHR,-1.0,122.83,MOO,1,0.1,2024-12-16,US-Equity-SNP,pending
+2,PPG,1.0,124.17,MOO,0,0.1,2024-12-16,US-Equity-SNP,pending
+3,SBAC,1.0,214.28,MOO,1,0.1,2024-12-16,US-Equity-SNP,pending
+4,WAT,1.0,378.26,MOO,2,0.1,2024-12-16,US-Equity-SNP,pending
+5,CCL,1.0,25.9,MOO,3,0.1,2024-12-16,US-Equity-SNP,pending
