@@ -1,0 +1,8 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,FFIV,1.0,252.25,MOO,0,0.1,2024-12-23,US-Equity-SNP,pending
+1,CHRW,1.0,104.34,MOO,1,0.1,2024-12-23,US-Equity-SNP,pending
+2,SPG,1.0,171.61,MOO,2,0.1,2024-12-23,US-Equity-SNP,pending
+3,STZ,1.0,227.63,MOO,3,0.1,2024-12-23,US-Equity-SNP,pending
+4,IT,1.0,491.25,MOO,4,0.1,2024-12-23,US-Equity-SNP,pending
+5,ULTA,-1.0,430.01,MOO,0,0.1,2024-12-23,US-Equity-SNP,pending
+6,LNT,1.0,58.95,MOO,5,0.1,2024-12-23,US-Equity-SNP,pending
