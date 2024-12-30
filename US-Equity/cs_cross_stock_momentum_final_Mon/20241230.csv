@@ -1,0 +1,3 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,CI,-1.0,278.71,MOO,0,0.1,2024-12-30,US-Equity-SNP,pending
+1,ULTA,-1.0,442.15,MOO,1,0.1,2024-12-30,US-Equity-SNP,pending
