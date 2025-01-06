@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AMZN,1.0,224.19,MOO,0,0.1,2025-01-06,US-Equity-SNP,pending
+1,NCLH,1.0,25.42,MOO,1,0.1,2025-01-06,US-Equity-SNP,pending
+2,WAT,1.0,371.76,MOO,2,0.1,2025-01-06,US-Equity-SNP,pending
+3,ZBRA,1.0,391.86,MOO,3,0.1,2025-01-06,US-Equity-SNP,pending
+4,INCY,1.0,69.63,MOO,4,0.1,2025-01-06,US-Equity-SNP,pending
