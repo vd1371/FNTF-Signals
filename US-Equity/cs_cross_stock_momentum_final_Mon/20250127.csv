@@ -1,0 +1,9 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AMZN,-1.0,234.85,MOO,0,0.1,2025-01-27,US-Equity-SNP,pending
+1,MCD,-1.0,285.46,MOO,1,0.1,2025-01-27,US-Equity-SNP,pending
+2,EMR,-1.0,130.6,MOO,2,0.1,2025-01-27,US-Equity-SNP,pending
+3,AZO,-1.0,3332.53,MOO,3,0.1,2025-01-27,US-Equity-SNP,pending
+4,FTNT,-1.0,96.9,MOO,4,0.1,2025-01-27,US-Equity-SNP,pending
+5,CTVA,-1.0,63.96,MOO,5,0.1,2025-01-27,US-Equity-SNP,pending
+6,AKAM,-1.0,97.7,MOO,6,0.1,2025-01-27,US-Equity-SNP,pending
+7,SYF,-1.0,70.63,MOO,7,0.1,2025-01-27,US-Equity-SNP,pending
