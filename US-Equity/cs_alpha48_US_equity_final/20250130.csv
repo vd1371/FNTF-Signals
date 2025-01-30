@@ -1,0 +1,7 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,TXN,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
+1,AOS,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
+2,FAST,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
+3,TRGP,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
+4,LNT,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
+5,AES,1,N/A,MOC,N/A,1,2025-01-30,US-Equity-SNP,pending,2025-01-31
