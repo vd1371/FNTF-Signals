@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,FTRE,1.0,16.81,MOO,0,0.1,2025-02-03,US-Equity-SNP,pending
+1,CTVA,-1.0,65.27,MOO,0,0.1,2025-02-03,US-Equity-SNP,pending
+2,IFF,-1.0,87.09,MOO,1,0.1,2025-02-03,US-Equity-SNP,pending
+3,IRM,1.0,101.57,MOO,1,0.1,2025-02-03,US-Equity-SNP,pending
+4,INCY,-1.0,74.16,MOO,2,0.1,2025-02-03,US-Equity-SNP,pending
