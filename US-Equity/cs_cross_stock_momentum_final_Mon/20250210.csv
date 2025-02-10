@@ -1,0 +1,7 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AMZN,1.0,229.15,MOO,0,0.1,2025-02-10,US-Equity-SNP,pending
+1,GNRC,1.0,142.11,MOO,1,0.1,2025-02-10,US-Equity-SNP,pending
+2,MRNA,1.0,32.6,MOO,2,0.1,2025-02-10,US-Equity-SNP,pending
+3,ULTA,1.0,374.79,MOO,3,0.1,2025-02-10,US-Equity-SNP,pending
+4,MOH,1.0,283.97,MOO,4,0.1,2025-02-10,US-Equity-SNP,pending
+5,SJM,1.0,103.28,MOO,5,0.1,2025-02-10,US-Equity-SNP,pending
