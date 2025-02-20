@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,YUM,1,N/A,MOC,N/A,1,2025-02-20,US-Equity-SNP,pending,2025-02-21
+1,PPG,1,N/A,MOC,N/A,1,2025-02-20,US-Equity-SNP,pending,2025-02-21
+2,EFX,1,N/A,MOC,N/A,1,2025-02-20,US-Equity-SNP,pending,2025-02-21
+3,WAB,1,N/A,MOC,N/A,1,2025-02-20,US-Equity-SNP,pending,2025-02-21
+4,MAS,1,N/A,MOC,N/A,1,2025-02-20,US-Equity-SNP,pending,2025-02-21
