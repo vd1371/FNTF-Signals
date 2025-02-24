@@ -1,0 +1,5 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,HLT,1.0,259.49,MOO,0,0.1,2025-02-24,US-Equity-SNP,pending
+1,MRNA,-1.0,35.53,MOO,0,0.1,2025-02-24,US-Equity-SNP,pending
+2,ZBH,-1.0,104.83,MOO,1,0.1,2025-02-24,US-Equity-SNP,pending
+3,CLX,-1.0,157.25,MOO,2,0.1,2025-02-24,US-Equity-SNP,pending
