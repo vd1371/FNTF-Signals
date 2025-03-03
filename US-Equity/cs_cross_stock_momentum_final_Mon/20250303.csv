@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,PARA,1.0,11.36,MOO,0,0.1,2025-03-03,US-Equity-SNP,pending
+1,TRV,-1.0,258.49,MOO,0,0.1,2025-03-03,US-Equity-SNP,pending
+2,HRL,1.0,28.63,MOO,1,0.1,2025-03-03,US-Equity-SNP,pending
