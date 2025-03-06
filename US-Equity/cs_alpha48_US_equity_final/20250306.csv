@@ -1,0 +1,11 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,BAC,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+1,CHRW,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+2,BKNG,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+3,TT,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+4,GM,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+5,KMB,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+6,CEG,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+7,RCL,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+8,GPC,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
+9,KIM,1,N/A,MOC,N/A,1,2025-03-06,US-Equity-SNP,pending,2025-03-07
