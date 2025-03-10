@@ -1,0 +1,5 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,TXN,1.0,190.52,MOO,0,0.1,2025-03-10,US-Equity-SNP,pending
+1,DXCM,1.0,77.84,MOO,1,0.1,2025-03-10,US-Equity-SNP,pending
+2,ZBH,-1.0,107.99,MOO,0,0.1,2025-03-10,US-Equity-SNP,pending
+3,EXPE,1.0,184.33,MOO,2,0.1,2025-03-10,US-Equity-SNP,pending
