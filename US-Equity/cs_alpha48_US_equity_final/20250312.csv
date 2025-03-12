@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,HD,1,N/A,MOC,N/A,1,2025-03-12,US-Equity-SNP,pending,2025-03-13
+1,LIN,1,N/A,MOC,N/A,1,2025-03-12,US-Equity-SNP,pending,2025-03-13
+2,PSA,1,N/A,MOC,N/A,1,2025-03-12,US-Equity-SNP,pending,2025-03-13
+3,BR,1,N/A,MOC,N/A,1,2025-03-12,US-Equity-SNP,pending,2025-03-13
+4,GRMN,1,N/A,MOC,N/A,1,2025-03-12,US-Equity-SNP,pending,2025-03-13
