@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,WHR,-1.0,93.35,MOO,0,0.1,2025-03-24,US-Equity-SNP,pending
+1,WBD,-1.0,10.74,MOO,1,0.1,2025-03-24,US-Equity-SNP,pending
+2,LVS,1.0,41.93,MOO,0,0.1,2025-03-24,US-Equity-SNP,pending
