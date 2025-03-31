@@ -1,0 +1,8 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,INTC,1.0,22.71,MOO,0,0.1,2025-03-31,US-Equity-SNP,pending
+1,CI,-1.0,325.04,MOO,0,0.1,2025-03-31,US-Equity-SNP,pending
+2,PAYX,-1.0,151.03,MOO,1,0.1,2025-03-31,US-Equity-SNP,pending
+3,OXY,-1.0,48.83,MOO,2,0.1,2025-03-31,US-Equity-SNP,pending
+4,SYY,-1.0,74.1,MOO,3,0.1,2025-03-31,US-Equity-SNP,pending
+5,PEG,1.0,81.63,MOO,1,0.1,2025-03-31,US-Equity-SNP,pending
+6,BWA,1.0,28.19,MOO,2,0.1,2025-03-31,US-Equity-SNP,pending
