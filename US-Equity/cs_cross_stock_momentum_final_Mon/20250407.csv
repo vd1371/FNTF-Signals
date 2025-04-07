@@ -1,0 +1,10 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,CVX,1.0,143.28,MOO,0,0.1,2025-04-07,US-Equity-SNP,pending
+1,AMD,1.0,85.76,MOO,1,0.1,2025-04-07,US-Equity-SNP,pending
+2,BA,1.0,136.59,MOO,2,0.1,2025-04-07,US-Equity-SNP,pending
+3,BKNG,1.0,4284.02,MOO,3,0.1,2025-04-07,US-Equity-SNP,pending
+4,MET,1.0,69.07,MOO,4,0.1,2025-04-07,US-Equity-SNP,pending
+5,LUV,1.0,25.87,MOO,5,0.1,2025-04-07,US-Equity-SNP,pending
+6,ALB,1.0,58.51,MOO,6,0.1,2025-04-07,US-Equity-SNP,pending
+7,EQT,1.0,46.11,MOO,7,0.1,2025-04-07,US-Equity-SNP,pending
+8,PAYC,1.0,198.11,MOO,8,0.1,2025-04-07,US-Equity-SNP,pending
