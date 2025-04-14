@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,DLR,-1.0,145.09,MOO,0,0.1,2025-04-14,US-Equity-SNP,pending
+1,MET,-1.0,71.4,MOO,1,0.1,2025-04-14,US-Equity-SNP,pending
+2,KDP,-1.0,35.16,MOO,2,0.1,2025-04-14,US-Equity-SNP,pending
+3,HPE,-1.0,14.14,MOO,3,0.1,2025-04-14,US-Equity-SNP,pending
+4,KMX,1.0,68.36,MOO,0,0.1,2025-04-14,US-Equity-SNP,pending
