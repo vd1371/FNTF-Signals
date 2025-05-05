@@ -1,0 +1,9 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AVGO,-1.0,203.64,MOO,0,0.1,2025-05-05,US-Equity-SNP,pending
+1,INTC,-1.0,20.62,MOO,1,0.1,2025-05-05,US-Equity-SNP,pending
+2,BA,-1.0,185.46,MOO,2,0.1,2025-05-05,US-Equity-SNP,pending
+3,PHIN,-1.0,41.9,MOO,3,0.1,2025-05-05,US-Equity-SNP,pending
+4,BMY,-1.0,50.57,MOO,4,0.1,2025-05-05,US-Equity-SNP,pending
+5,AMT,-1.0,223.6,MOO,5,0.1,2025-05-05,US-Equity-SNP,pending
+6,CNC,-1.0,60.16,MOO,6,0.1,2025-05-05,US-Equity-SNP,pending
+7,INVH,-1.0,35.47,MOO,7,0.1,2025-05-05,US-Equity-SNP,pending
