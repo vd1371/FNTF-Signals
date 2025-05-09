@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,AAPL,1,N/A,MOC,N/A,1,2025-05-09,US-Equity-SNP,pending,2025-05-10
+1,ROL,1,N/A,MOC,N/A,1,2025-05-09,US-Equity-SNP,pending,2025-05-10
+2,EXC,1,N/A,MOC,N/A,1,2025-05-09,US-Equity-SNP,pending,2025-05-10
+3,GWW,1,N/A,MOC,N/A,1,2025-05-09,US-Equity-SNP,pending,2025-05-10
+4,PPG,1,N/A,MOC,N/A,1,2025-05-09,US-Equity-SNP,pending,2025-05-10
