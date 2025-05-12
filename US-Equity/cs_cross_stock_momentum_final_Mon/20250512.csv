@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,LLY,1.0,734.57,MOO,0,0.1,2025-05-12,US-Equity-SNP,pending
+1,WHR,-1.0,80.03,MOO,0,0.1,2025-05-12,US-Equity-SNP,pending
+2,DVN,-1.0,32.53,MOO,1,0.1,2025-05-12,US-Equity-SNP,pending
+3,CLX,1.0,134.76,MOO,1,0.1,2025-05-12,US-Equity-SNP,pending
+4,IP,1.0,44.27,MOO,2,0.1,2025-05-12,US-Equity-SNP,pending
