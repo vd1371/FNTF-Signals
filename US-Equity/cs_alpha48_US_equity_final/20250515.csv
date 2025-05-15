@@ -1,0 +1,8 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,LLY,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+1,AMGN,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+2,DUK,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+3,OTIS,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+4,COR,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+5,HSY,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
+6,SJM,1,N/A,MOC,N/A,1,2025-05-15,US-Equity-SNP,pending,2025-05-16
