@@ -1,0 +1,6 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,UPS,1,N/A,MOC,N/A,1,2025-05-16,US-Equity-SNP,pending,2025-05-17
+1,CTSH,1,N/A,MOC,N/A,1,2025-05-16,US-Equity-SNP,pending,2025-05-17
+2,IEX,1,N/A,MOC,N/A,1,2025-05-16,US-Equity-SNP,pending,2025-05-17
+3,GEN,1,N/A,MOC,N/A,1,2025-05-16,US-Equity-SNP,pending,2025-05-17
+4,TECH,1,N/A,MOC,N/A,1,2025-05-16,US-Equity-SNP,pending,2025-05-17
