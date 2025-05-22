@@ -1,0 +1,15 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,MMM,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+1,RHI,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+2,MAR,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+3,HLT,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+4,COF,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+5,CMI,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+6,VMC,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+7,CDW,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+8,EFX,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+9,J,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+10,MAS,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+11,IP,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+12,EVRG,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
+13,VTRS,1,N/A,MOC,N/A,1,2025-05-22,US-Equity-SNP,pending,2025-05-23
