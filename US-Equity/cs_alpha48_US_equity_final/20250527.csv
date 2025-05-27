@@ -1,0 +1,5 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,EA,1,N/A,MOC,N/A,1,2025-05-27,US-Equity-SNP,pending,2025-05-28
+1,TSCO,1,N/A,MOC,N/A,1,2025-05-27,US-Equity-SNP,pending,2025-05-28
+2,EG,1,N/A,MOC,N/A,1,2025-05-27,US-Equity-SNP,pending,2025-05-28
+3,L,1,N/A,MOC,N/A,1,2025-05-27,US-Equity-SNP,pending,2025-05-28
