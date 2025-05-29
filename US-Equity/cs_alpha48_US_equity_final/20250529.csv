@@ -1,0 +1,8 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,UNP,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+1,NWL,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+2,DOW,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+3,DOV,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+4,CBOE,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+5,FDS,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
+6,TSN,1,N/A,MOC,N/A,1,2025-05-29,US-Equity-SNP,pending,2025-05-30
