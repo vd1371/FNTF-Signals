@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,ENPH,-1.0,41.39,MOO,0,0.1,2025-06-02,US-Equity-SNP,pending
+1,DPZ,1.0,473.82,MOO,0,0.1,2025-06-02,US-Equity-SNP,pending
+2,KMX,-1.0,64.46,MOO,1,0.1,2025-06-02,US-Equity-SNP,pending
