@@ -1,0 +1,4 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,META,1,N/A,MOC,N/A,1,2025-06-13,US-Equity-SNP,pending,2025-06-14
+1,PARA,1,N/A,MOC,N/A,1,2025-06-13,US-Equity-SNP,pending,2025-06-14
+2,HCA,1,N/A,MOC,N/A,1,2025-06-13,US-Equity-SNP,pending,2025-06-14
