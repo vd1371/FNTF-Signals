@@ -1,0 +1,3 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status,closing_date
+0,FRT,1,N/A,MOC,N/A,1,2025-06-30,US-Equity-SNP,pending,2025-07-01
+1,O,1,N/A,MOC,N/A,1,2025-06-30,US-Equity-SNP,pending,2025-07-01
