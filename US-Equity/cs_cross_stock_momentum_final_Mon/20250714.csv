@@ -1,0 +1,7 @@
+,symbol,signal,potential_fill_price,order_type,priority,risk_adjuster,Date,market,status
+0,AMZN,1.0,225.02,MOO,0,0.1,2025-07-14,US-Equity-SNP,pending
+1,PFE,-1.0,25.65,MOO,0,0.1,2025-07-14,US-Equity-SNP,pending
+2,HAS,1.0,75.37,MOO,1,0.1,2025-07-14,US-Equity-SNP,pending
+3,NWS,1.0,34.29,MOO,2,0.1,2025-07-14,US-Equity-SNP,pending
+4,NEM,1.0,60.13,MOO,3,0.1,2025-07-14,US-Equity-SNP,pending
+5,EL,-1.0,91.08,MOO,1,0.1,2025-07-14,US-Equity-SNP,pending
